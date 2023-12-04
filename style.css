@@ -6,7 +6,7 @@
 
 body {
     max-width: 100%;
-    max-height: 100vh;
+    min-height: 100vh;
     overflow-x: hidden;
     background-image: url("images/bg-intro-desktop.png");
     font-family: 'Poppins', sans-serif;
